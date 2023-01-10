@@ -1,4 +1,4 @@
-# Bank_Marketing_Machine_Learn
+# Bank Marketing using Machine Learning
 
 For this project, we chose to use the "Bank Marketing Data Set" that is stored in the Machine Learning Repository by the University of California, Irvine. The initial purpose of the data was to predict whether a customer would subscribe to a long-term deposit, which would allow the institution to better pursue those customers specifically. The data set contains 21 attributes and 41,188 instances collected via a telephone marketing campaign led by a “Portuguese banking institution” (Moro et al June 2014). While the data set only contains one prescribed target outcome (Long Term Deposits), we chose to additionally perform a second predicition. The second prediction we decided to create was what level of education (i.e., high school, years of college, illiteracy, etc.) is associated with increased potential of taking a long-term deposit. (S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014)
 
